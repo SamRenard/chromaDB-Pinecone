@@ -1,0 +1,4 @@
+pinecone
+chromadb
+sentence-transformers
+python-dotenv
